@@ -1,0 +1,2 @@
+# Source Acquisition Ladder
+Order: exact object/properties; direct source; structured dependency/where-used; bounded package context; existing local export; repository information search; bounded metadata query; unresolved blocker. Database fallback must be SAFE_READ SELECT only, repository/DDIC metadata, confirmed system/client, explicit columns, restrictive predicates and row limit. Prefer semantic repository APIs because internal tables differ by release.

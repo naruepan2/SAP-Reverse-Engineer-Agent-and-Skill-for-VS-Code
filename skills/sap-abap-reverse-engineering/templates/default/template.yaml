@@ -1,0 +1,9 @@
+project_id: DEFAULT
+template_id: SAP_ABAP_REVERSE_ENGINEERING_FS
+version: "8.7.2"
+document_type: FUNCTIONAL_SPECIFICATION
+status: ACTIVE
+display_name: "Default SAP ABAP Reverse Engineering Functional Specification"
+description: "Generic evidence-driven Functional Specification for SAP reverse engineering."
+aliases: [default, generic, standard]
+template_file: functional-specification-template.md

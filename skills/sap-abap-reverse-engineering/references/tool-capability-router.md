@@ -1,0 +1,2 @@
+# Tool Capability Router
+Inventory capabilities as AVAILABLE, UNAVAILABLE, DENIED or UNKNOWN: exact search, properties/package, source, package listing, dependency, where-used, DDIC metadata, bounded query, RAP/service/DCL/AMDP, local files, CDS_DEPENDENCY_TREE, CDS_DEPENDENCY_GRAPH, CDS_COMPLEXITY_METRICS, CDS_USED_COLUMNS and CDS_GRAPH_EXPORT. Map to actual SAFE_READ tool names only after discovery. Choose provider per operation, verify connectors separately, bind evidence to system/client/provider/time/fingerprint and report conflicts.

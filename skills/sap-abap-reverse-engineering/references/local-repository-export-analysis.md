@@ -1,0 +1,4 @@
+# Optional Local Repository Export Analysis
+Apply only when an existing readable local export is supplied. A local export is evidence; abapGit is only one possible producer. Do not require/install/start abapGit or `ZABAPGIT`; do not clone, pull, push, import, deserialize, synchronize or activate.
+Classify provenance as LOCAL_REPOSITORY_EXPORT, GIT_WORKING_TREE, ADT_EXPORT, ABAP_FS_EXPORT, ARC_1_EXPORT, CUSTOM_EXPORT or UNKNOWN_LOCAL_EXPORT. Use ABAPGIT_EXPORT only with proof.
+Index paths, types, object names, package/XML metadata, fingerprints, dependencies and companions. Record snapshot path/time/system/client/commit/file count/aggregate fingerprint. The snapshot cannot prove current live activation, configuration, authorization, service registration, data or performance. When live evidence exists, reconcile fingerprints, prefer confirmed active source for current-state claims and report conflicts.

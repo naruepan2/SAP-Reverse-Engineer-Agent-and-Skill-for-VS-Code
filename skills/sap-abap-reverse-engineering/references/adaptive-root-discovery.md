@@ -1,0 +1,3 @@
+# Adaptive Root Discovery
+Resolve exact object first; aliases only if needed: entity, DDL source, SQL view, service entity, generated object or local filename. Never switch silently to a similar name. Read metadata/source and record package, version/activation, fingerprint, parameters, annotations and direct references.
+Playbooks: CDS uses source + dependency graph + field lineage + companions; RAP adds BDEF/BIMP, behavior pool, service/binding, metadata, DCL and UI; program/class/function uses source, calls, SQL, dynamic seeds and where-used; service/UI resolves exposure and backing models. Package context follows root resolution and classifies CONFIRMED, CANDIDATE, CONTEXT_ONLY or EXCLUDED.

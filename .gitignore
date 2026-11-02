@@ -1,0 +1,17 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary and generated analysis output
+reverse-engineering-output/
+*.tmp
+*.log
+__pycache__/
+
+# Credentials and local connection data
+.env
+.env.*
+*.credential*
+*.secret*

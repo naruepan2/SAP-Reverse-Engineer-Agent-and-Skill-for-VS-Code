@@ -1,0 +1,3 @@
+# CDS Discovery and Field Lineage
+Raw dependency rows are occurrences, not objects. Canonical identity prefers type + entity/repository name; SQL name is alias/fallback. Read each canonical source once and preserve unique edges/branch context.
+Backward-slice critical fields through aliases, projections, expressions, joins, filters, grouping, CASE/fallback, UNION branches, currency/unit/sign/rounding/date/null logic to source/config/parameter/AMDP or unresolved boundary. Check cardinality, key completeness, outer-join nulls, ON-vs-WHERE filters, aggregation order and fan-out. Report object, edge, path, field, branch, AMDP and DCL coverage separately.

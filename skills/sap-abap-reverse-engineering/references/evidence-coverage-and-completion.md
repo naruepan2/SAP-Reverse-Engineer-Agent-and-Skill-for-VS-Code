@@ -1,0 +1,2 @@
+# Evidence, Coverage and Completion
+FACT is direct evidence; DERIVED is deterministic with reasoning; INFERRED needs confirmation; UNVERIFIED is unavailable/blocked/runtime/out-of-scope. Evidence records contain ID, object/type, provider, fingerprint, location/relation, claim, confidence and limitation. Coverage uses unique canonical denominators for nodes, edges, paths, fields, branches, configuration, authorization, AMDP, DCL and runtime. Report fully/partially/listed/unresolved/skipped and one completion status.

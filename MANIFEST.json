@@ -1,0 +1,170 @@
+{
+  "version": "8.7.2",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 231,
+      "sha256": "da09a611e9dac7eb71b39b3f473e9d71ffac56c31ba710dd82f06850a64a1afe"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size": 1313,
+      "sha256": "eab5cff1bf51ee3b074bc3dee59f908331e64ad216d3c16ee1fa7223b4883df6"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size": 565,
+      "sha256": "afd16d0f22e6ff01c90c4940eed986276e31e23f5ce53a108496487ef5f9e76a"
+    },
+    {
+      "path": "GITHUB_UPLOAD_INSTRUCTIONS.md",
+      "size": 638,
+      "sha256": "e05c3ec52a79ceecea5d129be32fdf41c34971c64b493baa10bc01d96fc6ad0e"
+    },
+    {
+      "path": "README.md",
+      "size": 3057,
+      "sha256": "7443667a81ad49334ee108c153af44a0d9960445a6d97c3793a668e97c410f05"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 653,
+      "sha256": "1086c989e3663df14d4f31321fe0c3eb8917a1c4c4cdf9feccfd56f00600b3ed"
+    },
+    {
+      "path": "VERSION",
+      "size": 6,
+      "sha256": "b2c27066254c146c2f54df8223ce3b6521dfcc9bd54708253745c218e3c16cec"
+    },
+    {
+      "path": "agents/sap-abap-reverse-engineer.agent.md",
+      "size": 2345,
+      "sha256": "f5e6a306a48ea878ad74562baf3dae6617d2fe238fdd9f1288cda79de57c39cc"
+    },
+    {
+      "path": "docs/ARCHITECTURE_V8.7.2.md",
+      "size": 713,
+      "sha256": "40ceb0683d4cf5472ab6ae0ba185d3734c576a04b62a5a4b694084742dbb81fd"
+    },
+    {
+      "path": "docs/DECISION_LOG.md",
+      "size": 2297,
+      "sha256": "f49a859a2c8961713f364762b53904063400389733472a4657ce34009869cefc"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "size": 547,
+      "sha256": "96c442a6841b83079e678ee482cccf894ef19a7f20f272720218bb6d2199e7cc"
+    },
+    {
+      "path": "release-assets/sap-abap-deep-reverse-engineering-v8.7.2.zip",
+      "size": 28649,
+      "sha256": "54d2efeee85142da85927e294ce6cf422b3e51647554572b65fd2d284e62acbd"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/SKILL.md",
+      "size": 2022,
+      "sha256": "253ef9a7abefddd029121c5c2dfd7ca063d3c9d0c6e7655758ae9120f0a42df4"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/adaptive-root-discovery.md",
+      "size": 702,
+      "sha256": "aa3be957dae6a5850928cf9fe2292841e130c56d84d801ccef7e7e3dea0c1ae5"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/cds-dependency-analyzer.md",
+      "size": 1060,
+      "sha256": "a5552751dbe42e90625b29caf054924213b37dfbf2582a2c1176e0fbaa396251"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/cds-discovery-and-field-lineage.md",
+      "size": 658,
+      "sha256": "09845345a12acc6a34e012107f859593939f5119703f23b21c216e2ef19754aa"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/cds-static-performance-analysis.md",
+      "size": 2148,
+      "sha256": "0813a38238f8b773af0ac6022de79a5c7cb405beace2bb51be3093a7dcf488c9"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/evidence-coverage-and-completion.md",
+      "size": 521,
+      "sha256": "21b97e8373abc5a33ca8abc6e9a37fec0d1e06beba4761da47f888c9fdc9c3ff"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/evidence-pointer-contract.md",
+      "size": 1054,
+      "sha256": "dc6a743618b4b0870a0af1d7364531bf06571a97f6103e73d48aa64e550b0422"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/guided-interaction-core.md",
+      "size": 2338,
+      "sha256": "fe2853e9fd166445e977d296bbc2915680c2a628252055c896c4c1b9b20f71ae"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/guided-question-patterns.md",
+      "size": 2230,
+      "sha256": "a987342ecd84aa08549dadd1647c4c9019e4b8f8f981591544807d7b53b0c7d0"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/intake-output-and-scope.md",
+      "size": 348,
+      "sha256": "47888c7e8590cf2299c9d4e0f1f76828ab83f79a450ae5a52f984045ca1634e4"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/local-repository-export-analysis.md",
+      "size": 914,
+      "sha256": "24aa10d06414845e1eb9b4218a1274033b1059891d4d0a6ba2836fe5b7707fdc"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/runtime-context-management.md",
+      "size": 2193,
+      "sha256": "049f62ee76f93329b8373e9ee5d16675397c0185b3c80a00f1bcb6eaed7c056d"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/safety-and-preflight.md",
+      "size": 364,
+      "sha256": "b181e2c8cf4260303fc3571f14219c4c19729b0ffe781fce8a5070cd6c64c2af"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/single-object-bootstrap-scenario.md",
+      "size": 3213,
+      "sha256": "2cafb484758d5439bf94987c7cad90132e0c787efd4de17899048f83dffae53d"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/source-acquisition-ladder.md",
+      "size": 463,
+      "sha256": "892a9f6f1c263c3b2ddc5d7d9158bf34f44f537f916139ff0630dfdbc1dbee02"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/template-and-deliverables.md",
+      "size": 960,
+      "sha256": "9c93d580a58fa2965169eeab70a34857cb98e4e24c3252cdf0e20d000e6da729"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/template-registry-and-recursive-scan.md",
+      "size": 4177,
+      "sha256": "6a45e521ff85e146e479e44046c2bb1687d2e6181830bc6cbad386da9fa0d7b5"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/references/tool-capability-router.md",
+      "size": 545,
+      "sha256": "b304e44a09e8769a74f8af9a8000e0a742e48d5461a7f7c4d973016043748508"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/templates/README.md",
+      "size": 857,
+      "sha256": "b977e090c5b2ad0fcc945ec16b35e2d4e64ffd2b53de9512790e4781b9b84e1f"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/templates/default/functional-specification-template.md",
+      "size": 1637,
+      "sha256": "c051662a8151009b3a98c5557be46403d09b83cb02beda0feae51c9493b420e4"
+    },
+    {
+      "path": "skills/sap-abap-reverse-engineering/templates/default/template.yaml",
+      "size": 398,
+      "sha256": "44a0badc256bace1cd3e519e64c3f56cbf380484674658f0441b4f913eaa3d41"
+    }
+  ]
+}
